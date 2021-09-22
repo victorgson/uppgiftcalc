@@ -43,10 +43,22 @@
             android:layout_centerHorizontal="true"
             />
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/second_button"
+            android:text="-"
+            android:layout_below="@id/second_number"
+            android:layout_toRightOf="@id/first_button"
+            android:layout_marginLeft="3dp"
+            android:layout_centerHorizontal="true"
+
+            />
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/first_button"
+            android:layout_below="@id/second_button"
             android:id="@+id/result_text"
             android:text="@string/result_text"/>
 
