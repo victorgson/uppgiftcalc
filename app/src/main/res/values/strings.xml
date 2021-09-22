@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Uppgift</string>
+    <string name="hello_world_text">Hello World!</string>
+    <string name="first_button">BTN1</string>
+    <string name="second_button">BTN2</string>
+    <string name="third_button">BTN3</string>
+
+    <string name="instructions"> Skriv in två tal, och klicka på +:</string>
+    <string name="result_text">Result: </string>
+</resources>
